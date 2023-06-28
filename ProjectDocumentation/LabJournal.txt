@@ -1,0 +1,32 @@
+﻿Lab Journal
+------------
+
+
+Project name: [name]
+
+Name: [your name]
+Email: [your email]
+Project start date: [date]
+
+Lab contact email: see 0\_Project.md
+
+
+
+Table of Contents
+-----------------
+
+
+In general, keep the documentation in the sub-directory where it belongs. Thus, use the 0_README.md and/or additional (e.g., PowerPoint) files to document the data, software, and results. 
+
+This lab journal will contain more general documentation. For example,
+* General information and concepts
+* Summaries of project discussions
+* Steps to be taken
+* New (future) research ideas
+* Pointers to the location of certain pieces of information 
+
+In addition, it may also contain integrated parts of the various readme files whenever useful (but keep it consistent with the source files). Include figures and tables when necessary.
+
+Although, strictly speaking, a lab journal is not for recording new/future ideas or proving summaries of discussions, it is important for the group to also have a record of this. Therefore, include them in this lab journal.
+
+Parts that should not be shared with peers (e.g., new research ideas) should be clearly labeled with ‘Not for sharing’ such that we can easily remove these parts. Alternatively, you may maintain two separate documents.

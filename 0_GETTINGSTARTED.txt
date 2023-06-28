@@ -1,0 +1,26 @@
+﻿This is a template document. 
+
+
+This document (0_GETTINGSTARTED.txt) should introduce a new user of the standardized File System Structure (FSS) to the most important aspects of your project. This should allow him/her to quickly reproduce the main results. You can include figures and tables whereever needed.
+
+
+You should link relevant directories and/or files from this document by defining relative hyperlinks (i.e., relative to the root of the FSS) to specific subdirectories or files. For example:
+- ./Processing 
+- You can find the code [HERE]
+- ./Data/0_README.md 
+
+
+You can copy this text file to your favorite text processor (e.g., Microsoft Word, Mac Pages, LaTex). The final document should be converted to html (0_GETTINGSTARTED.html) since that file will be used by the FSS Navigator (Navigate.py, Navigate.exe, or the Unix script Navigate)
+
+A possible structure for this document is:
+
+Aim:
+
+Data:
+
+Software:
+
+Main results:
+
+Conclusion:
+

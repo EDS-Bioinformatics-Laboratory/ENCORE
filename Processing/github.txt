@@ -1,0 +1,20 @@
+#
+# Information about GitHub repository and git.
+#
+# For general instructions about the use of Git and GitHub see the 
+# latest version of Step-by-Step-ENCORE guide in the root of the FSS. 
+#
+
+
+### URL of github repository ####
+https://github.com/EDS-Bioinformatics-Laboratory/[REPLACE-WITH-YOUR-REPOSITORY].git 
+
+ 
+#### Any other information you want to include about the use of git with this specific repository ####
+
+
+
+
+
+
+

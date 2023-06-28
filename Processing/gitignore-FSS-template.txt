@@ -1,0 +1,119 @@
+##########################################################
+#
+# This is the main gitignore template file to be used with 
+# the standardized File System Structure (FSS).
+# If necessary you can merge other template files (e.g., for a specific
+# programming language or the JetBrains environment) with 
+# the FSS-template depending on the project.
+#
+# Rename the (merged) template .gitignore
+#
+# Documentation:           https://git-scm.com/docs/gitignore
+# Collection of templates: https://github.com/github/gitignore
+# See also:                https://linuxize.com/post/gitignore-ignoring-files-in-git/
+#
+# Notes: 
+# 1. use forward slash
+#
+# 2. Once you have added directories and files to the GitHub repository, then adding 
+#    these to gitignore will NOT remove them from the repository. In thise case use 
+#    git (bash) to remove unwanted files or directories.
+#
+# 3. Use git status --ignored to check which files and/or directories are ignored
+#
+##########################################################
+
+# Various types #
+#*.txt  
+*.rtf
+*.tsv
+*.csv
+*.xml
+!github.txt
+
+*.pdf
+
+# System files #
+.DS_Store
+Thumpbs.db
+
+# Images
+*.tiff
+*.png
+*.jpg
+*.gif
+*.svg
+
+# Microsoft office #
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+*.log
+*.sql
+*.sqlite
+
+# Video #
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+
+# Audio #
+*.wav
+*.mp3
+*.wma
+*.flac
+
+
+##
+# Exclude directories
+##
+Data/*
+**/Results/*
+**/bin/*
+
+
+##
+# Exclude specific files
+##
+
+
+
+##
+# Exceptions in folders after excluding file types
+# See https://riptutorial.com/git/example/911/exceptions-in-a--gitignore-file
+# See https://stackoverflow.com/questions/987142/make-gitignore-ignore-everything-except-a-few-files
+##
+
+

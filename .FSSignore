@@ -1,0 +1,9 @@
+#In this file you can specify the directories and or files that you want to
+#exclude from sharing with third parties.
+
+# Note: the current ENCORE version does not use this file.
+
+# Example
+Exclude Manuscript
+Exclude ProjectDocumentation/MyPresentations
+Exclude ProjectDocumentation/LabJournal/docx
