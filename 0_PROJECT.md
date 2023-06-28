@@ -14,9 +14,15 @@
 
 
 
-**Short project description + goals**
+**Project description + goals**
 
+*<u>Instructions:</u> *
 
+* *provide a brief description like a structured abstract (e.g., background, research question and approach). At a later stage the main results and conclusion can be added here and/or to the 0_GETTINGSTARTED file*
+
+* *Add figures when necessary.*
+
+  
 
 **Main contact** (project leader)
 
