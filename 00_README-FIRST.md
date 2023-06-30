@@ -30,15 +30,15 @@ The following files need to be updated by the project owner
 
 Help files
 
-* **1_MANUAL_Step-by-Step-ENCORE-Guide.{pdf, docx}**. User guide to use ENCORE (the File System Structure (FSS) and setting up a corresponding GitHub repository).
+* **1_Step-by-Step-ENCORE-Guide.{pdf, docx}**. User guide to use ENCORE (the File System Structure (FSS) and setting up a corresponding GitHub repository).
 
 
 
 General
 
-* **00_README.{md,txt}**. This file.
+* **00_README-FIRST.{md,txt}**. This file.
 
-* **2_CITATION.md**. How to cite ENCORE.
+* **2_CITATION.{md,txt}**. How to cite ENCORE.
 * **.FSSignore**. Currently not used.
 
 
