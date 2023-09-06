@@ -2,9 +2,16 @@
 
 
 
-<u>***Instructions***</u>
+<u>*Explanation*</u>:
 
-* *Remove instructions once you finalized the content of this file.*
+*This file contains basic project information and is shown by default in the FSS Navigator.*
+
+
+
+*<u>Instructions</u>:* 
+
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
 
 
 
@@ -79,7 +86,7 @@
 
 
 
- *== END INSTRUCTIONS ==*
+====== TEMPLATE STARTS HERE ======
 
 
 

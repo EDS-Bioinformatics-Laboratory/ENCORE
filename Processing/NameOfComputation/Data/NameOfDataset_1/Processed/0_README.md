@@ -2,43 +2,29 @@
 
 
 
-<u>***Instructions***</u>
+<u>*Explanation*</u>:
 
-* *Remove instructions once you finalized the content of this file.*
-
-
-
-* **Processed data**
-
-  * ***Data <u>obtained from collaborators or databases</u> and, consequently, not produced as part of the ENCORE project.*** *If data (pre)processing is part of the computational analyses then* it should be placed in the /Results directory within /Processing.*
-  * *Contains the data resulting from pre-processing steps (e.g., sequencing alignment, normalization, summarization, imputation) and which is used for subsequent downstream processing and analyses (e.g., BAM for NGS, peak tables for metabolomics).* 
-
-  
-
-*Public data*
-
-*If public data is used then specify sufficient information such as Database name, version, URL, description of the data.* 
+*This file contains a full description of the processed data or refers to other documents in the processed-data directory or /Processing directory that contains such description.*
 
 
 
-*Licenses*
+*<u>Instructions</u>:* 
 
-*For all data that is obtained from collaborators and public databases a data usage license should be stored with the data.*
-
-
-
-*Controlled access data*
-
-*Controlled access data obtained from specific data providers (e.g., TCGA, dbGAP) should be stored  together with the complete license agreement. Controlled access cannot be shared as part of the FSS.*
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
 
 
 
-*== END OF INSTRUCTIONS ==*
+====== TEMPLATE STARTS HERE ======
 
 
 
 **Dataset 1:**
 
-* Description of pre-processing:
+* Data type: 
+
+* Data format:  
+
+* Description of pre-processing (or refer to the /Processing directory if you did the pre-processing yourself):
 
   

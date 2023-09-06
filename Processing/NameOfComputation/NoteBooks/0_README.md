@@ -2,9 +2,19 @@
 
 
 
-*<u>**Instructions**</u>*
+<u>*Explanation*</u>:
 
-* *Remove instructions once you finalized the content of this file.*
+*This file contains basic project information and is shown by default in the FSS Navigator.*
+
+
+
+*<u>Instructions</u>:* 
+
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
+
+
+
 * *This directory contains, for example, R and Jupyter notebooks*
 * *Notebooks can contain a lot of data, figures, and tables. Make sure to minimize your notebook before synchronizing with GitHub.*
 
@@ -76,9 +86,11 @@
 
 ***Write comments as you code (not afterwards).** Modern integrated development environments (IDEs) will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
 
-** 
 
- *== END INSTRUCTIONS ==*
+
+
+
+====== TEMPLATE STARTS HERE ======
 
 
 

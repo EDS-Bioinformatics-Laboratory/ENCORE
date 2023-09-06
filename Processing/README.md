@@ -1,15 +1,26 @@
-# Processing
+### Processing
 
 
 
-<u>***Instructions***</u>
+<u>*Explanation*</u>:
 
-* *Remove instructions once you finalized the content of this file.*
+*This file contains basic project information and is shown by default in the FSS Navigator.*
+
+
+
+*<u>Instructions</u>:* 
+
+* *Remove all Instructions and the Explanation once you have completed the template.*
+
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
+
+  
+
 * *Subdirectories*
   * ***0_SoftwareEnvironment**.  General and project-specific information about the used computing environments (programming languages, integrated development environments, package managers).*
   * ***Data**. Raw, meta, and pre-processed data*
   * ***NameOfComputation**.  Contains all items (e.g., code, documentation, results) belonging to a specific computational analysis. Change 'NameOfComputation' to a more descriptive name. Make, additional \NameOfComputation sub-directories if required.*
-    * *Different parts of the computational work should be place in different \NameOfComputation directories to keep the \Processing modular.* 
+    * *Different parts of the computational work should be placed in different \NameOfComputation directories to keep the \Processing modular.* 
     * *You may add any prefix (e.g., number, date) to order these directories.*
 
 
@@ -33,7 +44,7 @@
 
 
 
-
+====== TEMPLATE STARTS HERE ======
 
 **Short title + project description:** [optional]
 
@@ -55,6 +66,6 @@
 
 
 
-**Explain in detail how to execute the code:**
+**How to execute the code:**
 
 [For example, command line instructions, parameter values, other settings]

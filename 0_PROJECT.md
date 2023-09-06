@@ -1,12 +1,41 @@
+### sFSS Root Directory
+
+
+
+<u>*Explanation*</u>:
+
+*This file contains basic project information and is shown by default in the FSS Navigator.*
+
+
+
 *<u>Instructions</u>:* 
 
-* *Remove all instructions once you have completed this file. Similar for any other file in the standardized FSS. This file will be shown in the FSS Navigator.*
+* *Remove all Instructions and the Explanation once you have completed the template.*
+
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
 
   
 
+* *Enter the project title*
+
+  * *Also add to the FSS Navigator configuration file Navigation.conf*
+
+* *Project description and goals*
+
+  * *Provide a brief description like a structured abstract (e.g., background, research question and approach). At a later stage the main results and conclusion can be added here and/or to the 0_GETTINGSTARTED file*
+  * *Add figures when necessary.*
 
 
-**Project name:**   *<u>Instructions:</u> also enter this title in the file Navigation.conf*
+* *Participants in project*
+  * *Do not provide contact details such as email or phone to ensure that only the main contact will be contacted in case of questions*.
+
+
+
+====== TEMPLATE STARTS HERE ======
+
+
+
+**Project title:**  
 
 
 
@@ -16,33 +45,25 @@
 
 **Project description + goals**
 
-*<u>Instructions:</u> *
 
-* *provide a brief description like a structured abstract (e.g., background, research question and approach). At a later stage the main results and conclusion can be added here and/or to the 0_GETTINGSTARTED file*
-
-* *Add figures when necessary.*
-
-  
 
 **Main contact** (project leader)
 
 * First+Last name
 * Affiliation
 * Role in project
-* email address
+* Email address
 
 
 
 **Participants in project**
-
-*<u>Instructions:</u> do not provide contact details such as email or phone to ensure that only the main contact will be contacted in case of questions*
 
 * Titles, First+Last name, department, institute, role in project
 * .....
 
 
 
-
+**Reference to publication (if published)**
 
 
 

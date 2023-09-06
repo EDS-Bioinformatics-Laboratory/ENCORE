@@ -1,45 +1,51 @@
-##### ENCORE
+- **ENCORE. Enhancing Computational Reproducibility** 
 
-ENCORE is an initiative of the Bioinformatics Laboratory ([www.bioinformaticslaboratory.eu](http://www.bioinformaticslaboratory.eu)) and can be cited as
+  [THIS FILE WILL BE UPDATED]
 
+  
 
+  ##### CITATION
 
-Van Kampen, AHC, Mahamune, UM, ........ Moerland, PD (2023) ENCORE: Enhancing Computational Reproducibility, ...... DOI
+  ENCORE is an initiative of the Bioinformatics Laboratory ([www.bioinformaticslaboratory.eu](http://www.bioinformaticslaboratory.eu)) and can be cited as
 
+  * Antoine H.C. van Kampen, Utkarsh Mahamune, Aldo Jongejan, Barbera D.C. van Schaik1, Daria Balashova, Danial Lashgari, Rodrigo García-Valiente, Mia Pras-Raves, Adrie D. Dane, Perry D. Moerland (2023) A practical implementation to improve reproducibility and transparency of computational research. BioxRiv......DOI
 
+  * Antoine H.C. van Kampen, Utkarsh Mahamune, Aldo Jongejan, Barbera D.C. van Schaik1, Daria Balashova, Danial Lashgari, Rodrigo García-Valiente, Mia Pras-Raves, Adrie D. Dane, Perry D. Moerland (2023) A practical implementation to improve reproducibility and transparency of computational research. in prep......DOI
 
-GitHub repository containing ENCORE template:  **[to add]**
+   
 
+  The **FSS Navigator** is part of ENCORE and can be referred to as:
 
+  * Van Kampen AHC, Mahamune U, Jongejan, A (2023) The standardized file system structure (FSS) navigator. Zenodo. DOI: https://doi.org/10.5281/zenodo.7985655
 
+  
 
+  **GitHub**
 
-Bibtex and other formats
+  GitHub repository containing the ENCORE sFSS template:
 
+  * https://github.com/EDS-Bioinformatics-Laboratory/ENCORE
 
+  
 
+  
 
+  ##### ACKNOWLEDGEMENTS
 
-The **FSS Navigator** is part of ENCORE and can be referred to as:
+  ENCORE is an initiative of the Bioinformatics Laboratory ([www.bioinformaticslaboratory.eu](http://www.bioinformaticslaboratory.eu)) with contributions from many group members:
+  
+  - Prof. dr. Antoine van Kampen
+  - Dr. Perry Moerland
+  - Dr. Aldo Jongejan
+  - Dr. Adrie Dane
+  - Dr. Mia Pras-Raves (current address UMC Utrecht)
+  - Barbera van Schaik
+  - Eric Wever
+  - Dasha Balashova
+  - Rodrigo Garcia Valiente
+  - Danial Lashgari
+  - Utkarsh Mahamune
 
-Van Kampen AHC, Mahamune U, Jongejan, A (2023) The standardized file system structure (FSS) navigator. Zenodo. DOI: https://doi.org/10.5281/zenodo.7985655
-
-
-
-
-
-##### ACKNOWLEDGEMENTS
-
-ENCORE is an initiative of the Bioinformatics Laboratory ([www.bioinformaticslaboratory.eu](http://www.bioinformaticslaboratory.eu)) with contributions from many group members:
-
-- Prof. dr. Antoine van Kampen
-- Dr. Perry Moerland
-- Dr. Aldo Jongejan
-- Dr. Adrie Dane
-- Dr. Mia Pras-Raves (current address UMC Utrrecht)
-- Barbera van Schaik
-- Eric Wever
-- Dasha Balashova
-- Rodrigo Garcia Valiente
-- Danial Lashgari
-- Utkarsh Mahamune
+  
+  
+  

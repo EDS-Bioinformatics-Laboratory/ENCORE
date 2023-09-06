@@ -2,65 +2,39 @@
 
 
 
-<u>***Instructions***</u>
+<u>*Explanation*</u>:
 
-* *Remove instructions once you finalized the content of this file.*
-
-
-
-***Meta data** (data description)*
-
-* *License*
-
-* *Description of the data obtained from collaborators*
-
-  * *Description of samples (e.g., sample sheets)*
-
-  * *Experimental design*
-
-  * *Who created the data*
-
-  * *Content and format of the data files*
-
-  * *Why the data were generated*
-
-  * *How the data were generated (measurement platform)* 
-
-  * *........*
-
-
-* *The meta-data can also be placed in the \Raw and/or \Processed sub-directory if that is more convenient or logical.*
+*This file contains a full description of the data or refers to other documents in the meta-data directory that contains such description.*
 
 
 
-*Public data*
+*<u>Instructions</u>:* 
 
-*If public data is used then specify sufficient information such as Database name, version, URL, description of the data.* 
-
-
-
-*Licenses*
-
-*For all data that is obtained from collaborators and public databases a data usage license should be stored with the data.*
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
 
 
 
-*Controlled access data*
-
-*Controlled access data obtained from specific data providers (e.g., TCGA, dbGAP) should be stored  together with the complete license agreement. Controlled access cannot be shared as part of the FSS.*
-
-
-
-*== END OF INSTRUCTIONS ==*
+*====== TEMPLATE STARTS HERE ======*
 
 
 
 **Dataset 1:**
 
+* Who created the data (data owner):
+
+* License
+
+  
+
 * Description of samples (e.g., sample sheets):
+
 * Experimental design:
-* Who created the data:
+
 * Content and format of the data files:
+
 * Why the data were generated:
+
 * How the data were generated (measurement platform) :
+
 * ........

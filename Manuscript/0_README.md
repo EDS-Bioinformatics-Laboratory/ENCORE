@@ -1,24 +1,30 @@
 ### Manuscript
 
+<u>*Explanation*</u>:
+
+*This file contains basic information about the manuscript(s) corresponding to this computational project.*
 
 
-*<u>Instructions:</u>* 
 
-* *Remove instructions once you finalized the content of this file.*
+*<u>Instructions</u>:* 
 
-* *This directory should contain versions of the manuscript written by the Bioinformatics Laboratory or collaborators (if available). It should include:*
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
 
-  * *Draft manuscript and revised versions after review*
 
-  * *Final publication + full reference*
 
-  * *Figures + Tables*
-
-  * *Supplementary data*
-
-  * *Reference library (e.g., EndNote, Mendeley, Bibtex, rtf)*
-
-  * *Review reports + rebuttals*
+* *This directory may include:*
+* *Draft manuscript and revised versions after review*
+  
+* *Final publication + full reference*
+  
+* *Figures + Tables*
+  
+* *Supplementary data*
+  
+* *Reference library (e.g., EndNote, Mendeley, Bibtex, rtf)*
+  
+* *Review reports + rebuttals*
 
 
 * *All tables and figures that are required for the publication should be duplicated from the \Results directories to the Manuscript directory to ensure this directory is self-contained.* 
@@ -27,7 +33,7 @@
 
 
 
-
+====== TEMPLATE STARTS HERE ======
 
 **Content:**
 

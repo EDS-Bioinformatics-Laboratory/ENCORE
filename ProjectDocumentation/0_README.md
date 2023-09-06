@@ -1,6 +1,14 @@
-# Project documentation
+### Project documentation
 
 
+
+<u>*Explanation*</u>:
+
+*This file contains basic project information and is shown by default in the FSS Navigator.*
+
+
+
+*<u>Instructions</u>:* 
 
 *This directory contains the following content:*
 

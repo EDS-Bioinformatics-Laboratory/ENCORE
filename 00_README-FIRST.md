@@ -16,7 +16,7 @@ The following files need to be updated by the project owner
 
 * **0_PROJECT.md**. Short description of project, contact person, and project team
 
-* **0_GETTINGSTARTED.txt**. Template document (plain text format). Copy this file to your favourite word processor to add content.
+* **0_GETTINGSTARTED.txt**. Template document (plain text format). Copy this file to your favourite editor to add content.
 * Examples:
   
   * **0_GETTINGSTARTED.docx**. Template document (Microsoft Word format to show how to include links). The docx file can be saved as html (make sure you use utf-8 encoding).
@@ -48,7 +48,7 @@ FSS Navigator
 * **Navigate.html**. Open in your browser to navigate the standardized file system.
 * **Navigate.py**. Standalone Python 3 script to generate Navigate.html to navigate the FSS. Can be run from the command line (Navigate.py -h)
 * **Navigate_U.sh**. Shell script to run Navigate on Unix/Linux systems. Change the first line (#!/usr/bin/Python) if necessary. Make executable using chmod +x
-* There are also executables available for Windows and Mac OS. These are not available from GitHub but   are found at Zenodo (DOI: https://doi.org/10.5281/zenodo.7985655; https://zenodo.org/record/7985655)):
+* There are also executables available for Windows and Mac OS. These are are available from the GitHub *release* and also from Zenodo (DOI: https://doi.org/10.5281/zenodo.7985655; https://zenodo.org/record/7985655)):
   * **Navigate_W.exe**. Windows executable if you don't have Python installed (Navigate.exe -h).
   * **Navigate_M**. MacOS executable (macOS 13.3.1 (Ventura), Apple M1)
   * **Navigate_MacIntel**. MacOS executable (macOS 10.13.6 (High Sierra), Intel Core i5 )

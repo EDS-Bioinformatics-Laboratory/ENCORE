@@ -1,10 +1,23 @@
-# Software Environment
+### Software Environment
 
 
 
-*<u>**Instructions**</u>*
 
-* *Remove instructions once you finalized the content of this file.*
+
+<u>*Explanation*</u>:
+
+*This file contains basic project information and is shown by default in the FSS Navigator.*
+
+
+
+*<u>Instructions</u>:* 
+
+* *Remove all Instructions and the Explanation once you have completed the template.*
+
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
+
+  
+
 * *This directory contains general and project-specific information about the used computing environments (e.g., used hardware, operating system, programming languages, integrated development environments, package managers).*
 * *Environments that are not used can be removed.* 
 * *If you use a different environment then add a new subdirectory.*
@@ -23,7 +36,7 @@
 
 
 
-
+====== TEMPLATE STARTS HERE ======
 
 **Did you complete the 0_README-ProjectSpecific.md file(s)?** [yes/no]
 
