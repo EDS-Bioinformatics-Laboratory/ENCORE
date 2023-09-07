@@ -4,7 +4,11 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
+*This subdirectory contains (background) information about any part of the project.* 
+
+
+
+*As a general rule, documentation should be close to component that is described. For example, the documentation of the data should be in the \Data directory. However, (general) information can be placed in the sub-directories you find in \ProjectDocumentation*.
 
 
 
@@ -18,3 +22,9 @@
 - ***LabJournal.{docx, md, tex, txt}**. Document with project notes.*
   - *Use any format that your prefer (Microsoft Word, Markdown and LaTex templates are provided).*
   - *See content of LabJournal for instructions.*
+
+
+
+====== TEMPLATE STARTS HERE ======
+
+Nothing to document here.

@@ -4,9 +4,11 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
+* *This subdirectory should contain relevant scientific literature (**pdf files**) from PubMed, BioRxiv, theses, etc*
 
+* *This list of references will, in most cases, be longer than used in \Manuscript.*
 
+  
 
 *<u>Instructions</u>:* 
 
@@ -16,19 +18,17 @@
 
   
 
-* *This subdirectory should contain relevant scientific literature (pdf files) from PubMed, BioRxiv, theses, etc*
+* Store *(pdf) files with using the Author-Year-Journal (or similar) naming-scheme to allow easy retrieval during project discussions.*
 
-* *This list of references will, in most cases, be longer than used in \Manuscript where a separate reference library should be available.*
-
-* *(pdf) files should be in the format of Author-Year-Journal (or similar) to allow easy retrieval during project discussions.*
-
-* *Use a reference manager such as Mendeley, BibTex, or EndNote.*
-  * *Save a copy of reference manager library in the \Literature directory.* 
-  * *Export your reference library to the standardized RIS format, and save it in the \Literature directory. RIS-Compatible Citation Management Software Programs (not exhaustive) include EndNote, RefWorks, Zotero, and Mendeley.  RIS-Compatible Scholarly Databases (*not exhaustive) include Embase, Scopus, and Web of Science.*
+* *In addition to the pdf files, use a reference manager such as Mendeley, BibTex, or EndNote. At the end of the project:*
   
-* *Note that pdf documents that are not Open Access can not be shared as part of the FSS in the public domain (e.g., if you publish the FSS in Zenodo). Therefore, you might want to document (in your reference manager) which pdf files are Open Access.*
+  * *Save a copy of reference manager library in the \Literature directory.* 
+  * *Export your reference library to the standardized RIS format, and save it in the \Literature directory. RIS-Compatible Citation Management Software Programs include EndNote, RefWorks, Zotero, and Mendeley.  RIS-Compatible Scholarly Databases include Embase, Scopus, and Web of Science.*
+  
+* *Note that pdf documents that are not Open Access can not be shared as part of the FSS in the public domain (e.g., if you publish the FSS in Zenodo). Therefore, you might want to document (in your reference manager) which pdf files are Open Access. In addition, you may also use a post/prefix in the pdf files to indicate the open access publications.* 
 
-* *In this 0_README.md file you can briefly document the relevance of all or selected papers for your project.* 
+* *Briefly document the relevance of all or selected papers below.* 
+  
   * *For example, you may want to indicate which paper(s) describe the data or computational approaches you use.*
 
 

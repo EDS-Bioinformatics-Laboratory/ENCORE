@@ -4,27 +4,20 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
-
-
-
-*<u>Instructions</u>:* 
-
-* *Remove all Instructions and the Explanation once you have completed the template.*
-* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
+*This directory contains the code you use (and developed) as part of this project.*
 
 
 
 ***Clean code*** 
 
-*Write programs for people, not computers (code should be easily read and understood). Adopting clean code practices helps to standardize and organize software code in order to enhance readability. This allows developers to concentrate on core functionality and reduce errors.* 
+*Write programs for people, not computers (code should be easily read and understood). Adopting clean code practices helps to standardize and organize software code in order to enhance readability. This allows developers to concentrate on core functionality and reduce errors.* *Readability helps reproducibility and transparency*. 
 
 *A few general rules:*
 
 - *Reduce complexity. Decompose programs into functions and modules (instead of making very long scripts).*
 - *Limit number of function arguments and length of functions.*
 - *Be ruthless about eliminating duplication (use functions).*
-- *Always search for well-maintained software libraries that do what you need, and test these libraries     before relying on them.*
+- *Always search for well-maintained software libraries that do what you need, and test these libraries  before relying on them.*
 - *Do not comment and  uncomment sections of code to control a program's behaviour. This is a recipe for making your software irreproducible.* 
 - *Choose a style guide—And stick with it (see for example, https://peps.python.org/pep-0008/ or https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)*
 - *Give functions and variables meaningful names.*
@@ -47,21 +40,37 @@
 
 
 
+***Write comments as you code (not afterwards).** Modern integrated development environments (IDEs) will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
+
+
+
+***Automated documentation tools***
+
+*Consider the use of documentation tools to partially automate the generation of documentation. For example, using Python docstrings (https://realpython.com/documenting-python-code/) together with Sphinx https://www.sphinx-doc.or) to automatically generate documentation.* 
+
+
+
+*<u>Instructions</u>:* 
+
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
+
+
+
 ***Software documentation***
 
-*Not all types of software documentation on this list need to be written for a single research or support project but a combination of several should be selected depending on the nature of the project. Whether more or less documentation is needed for your project will depend on its scale and complexity. For research project we need at least the (external) source code documentation and user documentation.*
+*Ensure that you have properly documented your code.* *Not all types of software documentation on this list need to be written for a single research or support project but a combination of several should be selected depending on the nature of the project. Whether more or less documentation is needed for your project will depend on its scale and complexity. For research project you need at least to write (external) source code documentation and user documentation.*
 
 - *Requirements Specification*
 
 - *Software Design*
 
 - ***(External) source code documentation***
-
   - *Place a brief explanatory comment at the start of every program.*
-
+  
   - *Document the input and output of your script/functions.*
   - *Describe what the code is doing and why.*
-
+  
 - *Testing Requirements*
 - ***End-User Instructions (including a quick-start guide)***
   - *How to install and configure the software.*
@@ -72,17 +81,9 @@
 
 
 
-***Write comments as you code (not afterwards).** Modern integrated development environments (IDEs) will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
-
-
-
 ***Version control your documentation.** Keep your documentation inside your Git repository along with the rest of your files. In addition/alternatively ‘Read the Docs’ (https://readthedocs.org/) provides an approach for hosting and automatically building documentation.* 
 
 
-
-***Use automated documentation tools***
-
-*For example, using Python docstrings (https://realpython.com/documenting-python-code/) together with Sphinx https://www.sphinx-doc.or) to automatically generate documentation.* 
 
 
 
@@ -90,7 +91,11 @@
 
 
 
-**What types of documentation did you produce:**
+**What (external) documentation is available?**
+
+
+
+**Documentation files**: [filename; short description of content]
 
 
 
@@ -110,8 +115,3 @@
 
 **Relation between the scripts, and user instructions for execution:**
 
-
-
-**Other file 1:** [description]
-
-**Other file 2:** [description]

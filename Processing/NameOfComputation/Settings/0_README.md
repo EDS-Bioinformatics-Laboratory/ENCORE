@@ -4,7 +4,9 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
+*This file/sub-directory concerns settings/parameters for the algorithms you have developed. For settings related to the computing environment see  \0_SoftwareEnvironment for further instructions.*
+
+
 
 
 
@@ -16,9 +18,8 @@
 
 
 * *Contains any file with input parameters for e.g., statistical analysis and computational simulations. If only few parameters or parameter files are required then these might also be placed in the \Code directory or directly in the code itself.*
-* *Information about the Software Environment specific for this (\NameOfComputation) analysis.* *See \0_SoftwareEnvironment for further instructions.*
 
-
+  
 
 ====== TEMPLATE STARTS HERE ======
 

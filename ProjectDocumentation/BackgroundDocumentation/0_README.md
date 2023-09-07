@@ -2,7 +2,11 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
+**BackgroundDocumentation**. Documents relevant as project background documentation. For example:*
+
+* *Project proposal*
+* *Presentations from collaborators or peers*
+* *Relevant tutorials about applied methodology*
 
 
 
@@ -13,22 +17,18 @@
 
 
 
-* ***BackgroundDocumentation**. Documents relevant as project background documentation. For example:*
-
-  * *Project proposal*
-  * *Presentations from collaborators or peers*
-  * *Relevant tutorials about applied methodology*
-
 * *If the content of the document is not clear from its title, then describe it here.*
 
-* *If specific information from a document is of special interest, then describe it here*
+* *If specific information from a specific document is of special interest, then mention it here*
+
+* *Organize in subdirectories if necessary*
 
   
 
 ====== TEMPLATE STARTS HERE ======
 
-**Document 1:**
+**Document 1:** [description/content]
 
 
 
-**Document 2:**
+**Document 2:** [description/content]

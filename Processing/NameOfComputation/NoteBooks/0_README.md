@@ -4,21 +4,7 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
-
-
-
-*<u>Instructions</u>:* 
-
-* *Remove all Instructions and the Explanation once you have completed the template.*
-* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
-
-
-
-* *This directory contains, for example, R and Jupyter notebooks*
-* *Notebooks can contain a lot of data, figures, and tables. Make sure to minimize your notebook before synchronizing with GitHub.*
-
-
+A notebook is *a (web-based) interactive computing platform* that combines live code, equations, narrative text, visualizations etc.
 
 * ***Tell a story for an audience** (rather than sporadic notes).*
 
@@ -60,6 +46,30 @@
 
 
 
+***Write comments as you code (not afterwards).** Modern integrated development environments (IDEs) will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
+
+
+
+***Automated documentation tools***
+
+*Consider the use of documentation tools to partially automate the generation of documentation. For example, using Python docstrings (https://realpython.com/documenting-python-code/) together with Sphinx https://www.sphinx-doc.or) to automatically generate documentation.* 
+
+
+
+
+
+*<u>Instructions</u>:* 
+
+* *Remove all Instructions and the Explanation once you have completed the template.*
+* *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
+
+
+
+* *This directory contains, for example, R and Jupyter notebooks*
+* *Notebooks can contain a lot of data, figures, and tables. Make sure to minimize your notebook before synchronizing with GitHub.*
+
+
+
 ***Software documentation***
 
 *Not all types of software documentation on this list need to be written for a single research or support project but a combination of several should be selected depending on the nature of the project. Whether more or less documentation is needed for your project will depend on its scale and complexity. For research project we need at least the (external) source code documentation and user documentation.*
@@ -81,12 +91,6 @@
   - *Include examples how to execute the code to produce certain output. Provide a simple example or test dataset.*
   - *Under what license it’s released.*
 - *Include a help command for command line interfaces*
-
-
-
-***Write comments as you code (not afterwards).** Modern integrated development environments (IDEs) will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
-
-
 
 
 

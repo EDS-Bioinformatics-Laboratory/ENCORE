@@ -2,14 +2,6 @@
 
 
 
-
-
-<u>*Explanation*</u>:
-
-*This file contains basic project information and is shown by default in the FSS Navigator.*
-
-
-
 *<u>Instructions</u>:* 
 
 * *Remove all Instructions and the Explanation once you have completed the template.*
@@ -45,6 +37,8 @@
 
 
 
+
+
 ====== TEMPLATE STARTS HERE ======
 
 
@@ -60,3 +54,4 @@ Table 2
 Figure 1
 
 Figure 2
+
