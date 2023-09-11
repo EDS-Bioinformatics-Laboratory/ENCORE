@@ -38,7 +38,7 @@ General
 
 * **00_README-FIRST.{md,txt}**. This file.
 
-* **2_CITATION.{md,txt}**. How to cite ENCORE.
+* **2_CITATION.{md,txt}**. How to cite ENCORE and the FSS Navigator.
 * **.FSSignore**. Currently not used.
 
 
@@ -48,13 +48,13 @@ FSS Navigator
 * **Navigate.html**. Open in your browser to navigate the standardized file system.
 * **Navigate.py**. Standalone Python 3 script to generate Navigate.html to navigate the FSS. Can be run from the command line (Navigate.py -h)
 * **Navigate_U.sh**. Shell script to run Navigate on Unix/Linux systems. Change the first line (#!/usr/bin/Python) if necessary. Make executable using chmod +x
-* There are also executables available for Windows and Mac OS. These are are available from the GitHub *release* and also from Zenodo (DOI: https://doi.org/10.5281/zenodo.7985655; https://zenodo.org/record/7985655)):
+* There are also executables available for Windows and Mac OS. These are available from the GitHub *release* and also from Zenodo (DOI: https://doi.org/10.5281/zenodo.7985655; https://zenodo.org/record/7985655)):
   * **Navigate_W.exe**. Windows executable if you don't have Python installed (Navigate.exe -h).
   * **Navigate_M**. MacOS executable (macOS 13.3.1 (Ventura), Apple M1)
   * **Navigate_MacIntel**. MacOS executable (macOS 10.13.6 (High Sierra), Intel Core i5 )
 
 * **Test_Navigate_Module.py**. Python script to show how to use Navigate.py as module in other Python scripts. This may help to keep Navigate.html up-to-date without manually executing Navigate.py.
-* **Navigate.conf**. Configuration file for Navigate.
+* **Navigate.conf**. Configuration file for the FSS Navigator.
 
 
 

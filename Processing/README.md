@@ -43,7 +43,7 @@
 *The Processing directory should be synchronized to the corresponding GitHub repository **without data and results** because there may not be sufficient storage space on GitHub to accommodate this.  Moreover, data and results already reside in the FSS. The FSS remains the point of entry*
 
 * *To exclude specific subdirectories and files from the GitHub repository you should make the appropriate changes to **gitignore-FSS-template** and copy it to **.gitignore**.* 
-* *The \Processing directory contains several other gitignore templates for specific languages. To use any of these templates, simply merge its content into .gitignore.  It is considered good practice to keep a single gitignore in the top-level directory and not in individual subdirectories, which would make debugging more troublesome.*
+* *The \Processing directory contains several other gitignore templates for specific languages. To use any of these templates, simply merge its content into .gitignore.  It is considered good practice to keep a single .gitignore in the top-level directory and not in individual subdirectories, which would make debugging more troublesome.*
 
 * *The \Processing directory should contain a <u>github.txt</u> file with the name of  the associated GitHub repository (URL). This file is used by the FSS Navigator*
 

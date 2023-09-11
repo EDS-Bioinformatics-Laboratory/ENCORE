@@ -8,7 +8,7 @@
 
 
 
-*As a general rule, documentation should be close to component that is described. For example, the documentation of the data should be in the \Data directory. However, (general) information can be placed in the sub-directories you find in \ProjectDocumentation*.
+*As a general rule, documentation should be close to component (e.g., data, code) that is described. For example, the documentation about the data should be in the \Data directory. However, more general information can be placed in the sub-directories in \ProjectDocumentation*.
 
 
 

@@ -25,7 +25,7 @@
 
 
 
-*<u>Conceptual description of methodology</u>* 
+<u>*Conceptual description of methodology to improve transparency.*</u>
 
 * *Brief description of used pre-existing methods (version) including specification of the mathematical/statistical model, parameters, variables, references, etc.*
 * *If a new method is developed that this method should be described in full detail.* 
