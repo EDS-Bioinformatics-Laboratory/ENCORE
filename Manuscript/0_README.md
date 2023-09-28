@@ -2,7 +2,7 @@
 
 <u>*Explanation*</u>:
 
-*This file contains basic information about the manuscript(s) corresponding to this computational project.*
+*This file contains basic information about the manuscript(s) corresponding to this computational project. It also contains publications about ENCORE that provide further information about its approach*.
 
 
 
@@ -14,22 +14,26 @@
 
 
 * *This directory may include:*
-* *Draft manuscript and revised versions after review*
-  
-* *Final publication + full reference*
-  
-* *Figures + Tables*
-  
-* *Supplementary data*
-  
-* *Reference library (e.g., EndNote, Mendeley, Bibtex, rtf)*
-  
-* *Review reports + rebuttals*
+
+  * *Draft manuscript and revised versions after review*
+
+  * *Final publication + full reference*
+
+  * *Figures + Tables*
+
+  * *Supplementary data*
+
+  * *Reference library (e.g., EndNote, Mendeley, Bibtex, rtf)*
+
+  * *Review reports + rebuttals*
 
 
-* *All tables and figures that are required for the publication should be duplicated from the \Results directories to the Manuscript directory to ensure this directory is self-contained.* 
+  * *All tables and figures that are required for the publication should be duplicated from the \Results directories to the Manuscript directory to ensure this directory is self-contained.* 
+
+
 
 * *Alternatively/in addition, this directory may include reports from e.g., student internships, or abstracts submitted for oral/poster presentations.* 
+* *You can remove the ENCORE publications if these are not further required*
 
 
 
