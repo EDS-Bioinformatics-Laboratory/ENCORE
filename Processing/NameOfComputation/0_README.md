@@ -33,7 +33,7 @@
   * *This allows your peers to make their own judgement about the approach and results.* 
   * *Considered alternatives?*
 * *Detailed description of all data filtering, reduction, normalization, etc steps that are performed prior to the downstream analysis.*
-* *Avenues of exploration examined throughout development, including information about negative ﬁndings.*
+* *Avenues of exploration examined throughout development, including information about negative findings.*
 * *.......*
 
 
