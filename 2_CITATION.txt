@@ -1,4 +1,5 @@
 ENCORE. Enhancing Computational Reproducibili** 
+Version 4.0
 
 [THIS FILE WILL BE UPDATED]
 
@@ -28,7 +29,7 @@ GitHub repository containing the ENCORE sFSS template: https://github.com/EDS-Bi
 
 ACKNOWLEDGEMENTS
 
-ENCORE is an initiative of the Bioinformatics Laboratory (http://www.bioinformaticslaboratory.eu) with contributions from many group members:
+ENCORE is an initiative of the Bioinformatics Laboratory (http://www.bioinformaticslaboratory.eu) with contributions from all group members:
 
 - Prof. dr. Antoine van Kampen
 - Dr. Perry Moerland
