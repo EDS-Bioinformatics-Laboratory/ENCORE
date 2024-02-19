@@ -14,7 +14,7 @@
 
 * ***Data**. Raw, meta, and pre-processed data*
 
-* ***NameOfComputation**.  Contains all items (e.g., code, documentation, results) belonging to a specific computational analysis.*
+* ***NameOfComputation_1**.  Contains all items (e.g., code, documentation, results) belonging to a specific computational analysis.*
 
   
 
@@ -26,14 +26,14 @@
 
   
 
-* *Change 'NameOfComputation' to a more descriptive name. Make, additional \NameOfComputation sub-directories if required.*
+* *Change 'NameOfComputation_1' to a more descriptive name. Make, additional \NameOfComputation_1 sub-directories if required.*
   
-  * *Different parts of the computational work should be placed in different \NameOfComputation directories to keep the \Processing modular.* 
+  * *Different parts of the computational work should be placed in different \NameOfComputation_1 directories to keep the \Processing modular.* 
   * *You may add any prefix (e.g., number, date) to order these directories.*
 
 
 
-* *The template below may duplicate (parts of) the 0_PROJECT.md file but, more importantly, should provide a short but clear description of all \NameOfComputation directories. In particular, it should make the dependencies (if any) clear, and should provide instructions of how to execute the code.* 
+* *The template below may duplicate (parts of) the 0_PROJECT.md file but, more importantly, should provide a short but clear description of all \NameOfComputation_1 directories. In particular, it should make the dependencies (if any) clear, and should provide instructions of how to execute the code.* 
   * *Since the FSS is the entry point of a project and because the FSS will be shared with peers (not the GitHub repository), it is not necessary (but allowed) to provide a project description in this README file*
 
 

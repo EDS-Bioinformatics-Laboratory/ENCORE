@@ -30,17 +30,17 @@
 
 ***Code testing***
 
-*Interrogate specific and isolated coding behaviour to reduce coding errors and ensure intended functionality, especially as code increases in complexity. Describe if software tests performed and how to re-run these tests.*
+*Interrogate specific and isolated coding behaviour to reduce coding errors and ensure intended functionality, especially as code increases in complexity. Describe if software tests have been performed and how to re-run these tests.*
 
 
 
 ***Integrated development environment** (IDE)*
 
-*Consider using an IDE (integrated development environment (IDE; )e.g., PyCharm and DataSpell from JetBrains (https://www.jetbrains.com/), RStudio (https://www.rstudio.com/)* 
+*Consider using an IDE, e.g., PyCharm and DataSpell from JetBrains (https://www.jetbrains.com/), RStudio (https://www.rstudio.com/)* 
 
 
 
-***Write comments as you code (not afterwards).** Modern integrated development environments (IDEs) will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
+***Write comments as you code (not afterwards).** Modern IDEs will often automatically generate documentation strings as you write code, which removes the burden of having to remember to write comments. (e.g., PyCharm, DataSpell).*
 
 
 
@@ -59,7 +59,7 @@
 
 ***Software documentation***
 
-*Ensure that you have properly documented your code.* *Not all types of software documentation on this list need to be written for a single research or support project but a combination of several should be selected depending on the nature of the project. Whether more or less documentation is needed for your project will depend on its scale and complexity. For research project you need at least to write (external) source code documentation and user documentation.*
+*Ensure that you have properly documented your code.* *Not all types of software documentation on this list need to be written for a single research or support project but a combination of several should be selected depending on the nature of the project. Whether more or less documentation is needed for your project will depend on its scale and complexity. For a research project you need at least to write (external) source code documentation and user documentation.*
 
 - *Requirements Specification*
 
@@ -75,7 +75,7 @@
 - ***End-User Instructions (including a quick-start guide)***
   - *How to install and configure the software.*
   - *Where to find its full documentation.*
-  - *Include examples how to execute the code to produce certain output. Provide a simple example or test dataset.*
+  - *Examples of how to execute the code to produce certain output. Provide a simple example or test dataset.*
   - *Under what license it’s released.*
 - *Include a help command for command line interfaces*
 

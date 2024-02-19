@@ -1,19 +1,15 @@
 ENCORE. Enhancing Computational Reproducibili** 
 Version 4.0
 
-[THIS FILE WILL BE UPDATED]
-
-
 
 CITATION
 
 ENCORE is an initiative of the Bioinformatics Laboratory (http://www.bioinformaticslaboratory.eu) and can be cited as
 
-* van Kampen, A., Mahamune, U., Jongejan, A., van Schaik, B., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E., Valiente, R.G., Dane, A., and Moerland, P (2023). ENCORE. A Practical Implementation to Improve Reproducibility and Transparency of Computational Research. [https://osf.io/preprints/metaarxiv/m9yqz/]. September 27. doi:10.31222/osf.io/m9yqz
+* van Kampen, A., Mahamune, U., Jongejan, A., van Schaik, B., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E., Dane, A., Valiente, R.G., and Moerland, P (2024). ENCORE. A Practical Implementation to Improve Reproducibility and Transparency of Computational Research. https://osf.io/preprints/metaarxiv/m9yqz/. February 19. doi:10.31222/osf.io/m9yqz. Supplementary materials: https://osf.io/j9hmw/
 
-* Antoine H.C. van Kampen, Utkarsh Mahamune, Aldo Jongejan, Barbera D.C. van Schaik1, Daria Balashova, Danial Lashgari, Rodrigo García-Valiente, Mia Pras-Raves, Adrie D. Dane, Perry D. Moerland (2023) ENCORE. A practical implementation to improve reproducibility and transparency of computational research. in prep.
+* van Kampen, A., Mahamune, U., Jongejan, A., van Schaik, B., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E., Dane, A., Valiente, R.G., and Moerland, P (2024). ENCORE. A Practical Implementation to Improve Reproducibility and Transparency of Computational Research. *Manuscript in prep.
 
- 
 
 The FSS Navigator is part of ENCORE and can be referred to as:
 

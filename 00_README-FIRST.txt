@@ -3,8 +3,6 @@ ENCORE. Enhancing Computational Reproducibility
 
 Notes:
 
-Notes:
-
 - The Standardized File System Structure (FSS) contains multiple markdown files (*.md) these can be edited with any text editor but are better visualized in a Markdown viewer such as Typora (www.typora.io; Windows, Mac) or Notepad++ (Windows; install the MarkdownViewer plugin).
 - Researchers that aim to reproduce the project: start by opening **Navigate.html** in your browser.
 

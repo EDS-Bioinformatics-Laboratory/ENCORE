@@ -12,11 +12,7 @@
 
 *At this moment ENCORE requires that you specify your computing environment by describing it as far as possible and/or to export software package versions and interdependencies from e.g., Anaconda. Anaconda allows to import these exported environments to ensure peers use the same software versions.*
 
-
-
 *This directory contains general and project-specific information about the used computing environments (e.g., used hardware, operating system, programming languages, integrated development environments, package managers).*
-
-
 
 *The sub-directories provide basic information about different environments (e.g., R/Rstudio, Python/PyCharm, Anaconda) for peers not familiar with the used computing environment. In addition, you may find other files such as cheat sheets, tutorials, and exports of (Anaconda) environments.*
 
@@ -25,11 +21,7 @@
 *<u>Instructions</u>:* 
 
 * *Remove all Instructions and the Explanation once you have completed the template.*
-
 * *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
-
-  
-
 * *Environments that are not used can be removed.* 
 * *If you use a different environment then add a new subdirectory.*
 * *Export your compute environment(s) (e.g., listing the different versions of Python, R, libraries/packages, library dependencies, etc) used for your computations. This can, for example, be done with Anaconda (R and Python), or saving your sessionInfo() (R).* 

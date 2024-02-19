@@ -8,13 +8,11 @@
 
 
 
-*<u>Instructions</u>:* 
+*<u>Instructions</u>:*
 
 * *Remove all Instructions and the Explanation once you have completed the template.*
 
 * *Level of detail: Information provided should be sufficient for someone who was not involved in the project and/or has limited knowledge about the topic,  to understand and reproduce the project.* 
-
-  
 
 * *Enter the project title*
 
