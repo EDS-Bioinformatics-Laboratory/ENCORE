@@ -81,9 +81,15 @@
 
 
 
-***Version control your documentation.** Keep your documentation inside your Git repository along with the rest of your files. In addition/alternatively ‘Read the Docs’ (https://readthedocs.org/) provides an approach for hosting and automatically building documentation.* 
+***Version control your documentation.***
+
+*Keep your documentation inside your Git repository along with the rest of your files. In addition/alternatively ‘Read the Docs’ (https://readthedocs.org/) provides an approach for hosting and automatically building documentation.* 
 
 
+
+**Preserve your computing environment**
+
+*See [0_README.md](.\..\..\0_SoftwareEnvironment\) in 0_SoftwareEnvironment*
 
 
 
@@ -115,3 +121,6 @@
 
 **Relation between the scripts, and user instructions for execution:**
 
+
+
+[\ENCORE\Processing\0_SoftwareEnvironment]: 
