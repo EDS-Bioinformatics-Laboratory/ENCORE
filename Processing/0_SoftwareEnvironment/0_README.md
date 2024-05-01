@@ -75,9 +75,11 @@ pip <pip_subcommand>
 
 <u>*Use in ENCORE*</u>
 
-*Currently, for ENCORE, the minimum requirement is to specify the versions of all software (including packages, libraries) used in the project.  For example, in R one can use 'installed.packages()', while in conda one can use 'conda list --explicit > myenv.txt'. However, preferably conda or renv should be used.*
+*Since software versions and dependencies are a main obstacle for reproducibility, it is required to use a package manager of some sort (e.g., conda, renv) and to ensure that Compendium Recipients can reproduce the software environment. For example, conda allows to export the environment using 'conda list --explicit > myenv.txt', which can be imported by the Compendium Recipient.* 
 
-**In the context of ENCORE, we are still working on best practices for using containers and/or VMs.* 
+*Preferably, also provide a file with  versions of all software (including packages, libraries) used in the project.  For example, in R one can use 'installed.packages()', while in conda one can use 'conda list --explicit > myenv.txt'.* 
+
+*In the context of ENCORE, we are still working on best practices for using containers and/or VMs.* 
 
 
 
