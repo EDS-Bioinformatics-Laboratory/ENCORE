@@ -22,9 +22,9 @@
 2. *Containers such as **Docker** (https://www.docker.com/) or **Singularity** (https://docs.sylabs.io/guides/3.5/user-guide/introduction.html) to provide an isolated environment for the software. That is, a container has no knowledge of the operating system and contains everything required to run the software.*
 3. *Virtual Machines (VM) for hardware virtualization to achieve complete isolation and reproducibility. Virtualization can be achieved via (commercial) clouds or, on a local computer, using for example Workstation Player from **VMware** (https://www.vmware.com/) or **VirtualBox** from Oracle (https://www.virtualbox.org/)*
 
-```
-Gruning, B., Chilton, J., Koster, J., Dale, R., Soranzo, N., van den Beek, M., Goecks, J., Backofen, R., Nekrutenko, A., & Taylor, J. (2018). Practical Computational Reproducibility in the Life Sciences. Cell Syst, 6(6), 631-635. https://doi.org/10.1016/j.cels.2018.03.014 
-```
+
+
+*Gruning, B., Chilton, J., Koster, J., Dale, R., Soranzo, N., van den Beek, M., Goecks, J., Backofen, R., Nekrutenko, A., & Taylor, J. (2018). Practical Computational Reproducibility in the Life Sciences. Cell Syst, 6(6), 631-635. https://doi.org/10.1016/j.cels.2018.03.014* 
 
 
 
