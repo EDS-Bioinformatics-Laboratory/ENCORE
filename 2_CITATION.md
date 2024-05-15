@@ -1,6 +1,6 @@
 **ENCORE. Enhancing Computational Reproducibility** 
 
-*VERSION V4.01*
+*VERSION V4.1*
 
 
 
