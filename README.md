@@ -59,6 +59,12 @@ Further information about ENCORE is also found in the [ENCORE wiki](https://gith
 
  
 
+**ENCORE AUTOMATION**
+
+The GitHub repository [ENCORE AUTOMATION](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE_AUTOMATION) provides scripts to automate specific ENCORE tasks. Currently, the automatic creation of a local ENCORE project and and project repository on GitHub.com
+
+
+
 **Sharing with a Compendium Recipient**
 
 * Several files in the sFSS are provided in different formats (e.g., text, markdown, LaTex, Microsoft Word, HTML). Project Team will remove the formats that will not be used. This prevents that these redundant files  cause confusion when the project compendium is archived or shared with a Compendium Recipient. 
