@@ -6,6 +6,12 @@
 
 ## General
 
+**ENCORE**
+
+Further information about ENCORE is also found in the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki). To facilitate further discussion about the develop of ENCORE we setup ‘[Discussions](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/discussions)’.
+
+
+
 **Markdown**
 
 The markdown files (*.md) in the sFSS can be edited with any text editor but to show the markup one should use a Markdown viewer such as Typora (www.typora.io; Windows, Mac) or [Notepad++](https://notepad-plus-plus.org/) (Windows; install the MarkdownViewer plugin).
@@ -34,7 +40,7 @@ Start to explore the project by opening **Navigate.html** in your browser.
 
 **Content of sFSS root directory**
 
-* **00_README-FIRST.{md,pdf}**. This file.
+* **README.md**. This file.
 * **2_CITATION.md**. How to cite ENCORE and the FSS Navigator.
 * **3_LICENSE.md.** License associated with the ENCORE template
 
@@ -54,8 +60,6 @@ Directories
 
 
 ## INFORMATION FOR THE PROJECT TEAM
-
-Further information about ENCORE is also found in the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki). To facilitate further discussion about the develop of ENCORE we setup ‘[Discussions](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/discussions)’.
 
  
 
@@ -105,7 +109,7 @@ User documentation
 
 General
 
-* **00_README-FIRST.{md,pdf}**. This file.
+* **README.md**. This file.
 
 * **2_CITATION.md**. How to cite ENCORE and the FSS Navigator.
 * **3_LICENSE.md.** License associated with the ENCORE template
