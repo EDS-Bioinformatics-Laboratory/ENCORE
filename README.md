@@ -123,7 +123,7 @@ The sFSS Navigator is a Python program that generates Navigate.html when execute
 
 * The standalone program and source code are available. The Python code is part of this template. Compiled binaries are found on the [ENCORE GitHub repository](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/releases) 
 * Updates (e.g., bug fixes) of the Python code and executables are available from the [Navigator repository Releases](https://github.com/EDS-Bioinformatics-Laboratory/FSS-Navigator/releases) . Compatibility, with specific ENCORE templates is documented with each Release.
-* Navigator versions and Compatibility with ENCORE template versions is also available from the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki/Navigator) 
+* Navigator versions and Compatibility with ENCORE template versions is also available from the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki/sFSS-Navigator) 
 * If the sFSS is changed then Navigate.html can be updated by executing the Navigate.py script (if Python is installed on your computer), or by downloading and executing one of the executables. Open Navigate.html after running the program. The Navigator can be configured from the Navigation.conf  text file. Execution takes a couple of seconds.
 * In principle, the Python script should run on any hardware (Windows, Mac, Unix). The compiled programs were compiled for specific operating systems (see below). The Navigator has been tested with Windows 10 and Windows 11 and with macOS 13.3.1 (Ventura), Apple M1 and macOS 10.13.6 (High Sierra), Intel Core i5.
 * There are no software dependencies. The Python code only uses standard Python libraries (see content of Navigate.py).
