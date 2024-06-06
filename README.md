@@ -8,7 +8,7 @@
 
 **ENCORE**
 
-Further information about ENCORE is also found in the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki). To facilitate further discussion about the develop of ENCORE we setup ‘[Discussions](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/discussions)’.
+Further information about ENCORE is also found in the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki). To facilitate further discussion about the develop of ENCORE we have set up [Discussions](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/discussions).
 
 
 
@@ -28,7 +28,7 @@ To organize a computational project into a project compendium, ENCORE has define
 
 The (leader of the) **Project Team** is responsible for the organization and documentation of the project. The Step-by-Step User Guide and the explanation/instructions in the various README and other files are for the  Project Team.
 
-The '**Compendium Recipient**' is, for example, a direct college, a peer, or a reviewer who wants to inspect and/or reproduce the results of a project. Or it can be an archive such as Zenodo.
+The '**Compendium Recipient**' is, for example, a direct colleague, a peer, or a reviewer who wants to inspect and/or reproduce the results of a project. Or it can be an archive such as Zenodo.
 
 
 
