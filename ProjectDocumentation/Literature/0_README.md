@@ -4,7 +4,7 @@
 
 <u>*Explanation*</u>:
 
-* *This subdirectory should contain relevant scientific literature (**pdf files**) from PubMed, BioRxiv, theses, etc*
+* *This subdirectory should contain relevant scientific literature (**pdf files**) from PubMed, bioRxiv, theses, etc*
 
 * *This list of references will, in most cases, be longer than used in \Manuscript.*
 
@@ -20,7 +20,7 @@
 
 * Store *(pdf) files with using the Author-Year-Journal (or similar) naming-scheme to allow easy retrieval during project discussions.*
 
-* *In addition to the pdf files, use a reference manager such as Mendeley, BibTex, or EndNote. At the end of the project:*
+* *In addition to the pdf files, use a reference manager such as Mendeley, BibTeX, or EndNote. At the end of the project:*
   
   * *Save a copy of reference manager library in the \Literature directory.* 
   * *Export your reference library to the standardized RIS format, and save it in the \Literature directory. RIS-Compatible Citation Management Software Programs include EndNote, RefWorks, Zotero, and Mendeley.  RIS-Compatible Scholarly Databases include Embase, Scopus, and Web of Science.*
