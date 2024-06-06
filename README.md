@@ -71,7 +71,7 @@ The GitHub repository [ENCORE_AUTOMATION](https://github.com/EDS-Bioinformatics-
 
 **Sharing with a Compendium Recipient**
 
-* Several files in the sFSS are provided in different formats (e.g., text, markdown, LaTex, Microsoft Word, HTML). Project Team will remove the formats that will not be used. This prevents that these redundant files  cause confusion when the project compendium is archived or shared with a Compendium Recipient. 
+* Several files in the sFSS are provided in different formats (e.g., text, Markdown, LaTex, Microsoft Word, HTML). The Project Team has to remove the formats that will not be used. This prevents that these redundant files cause confusion when the project compendium is archived or shared with a Compendium Recipient. 
 * The Step-by-Step-ENCORE-Guide can be removed since this document is only relevant for a Project Team setting up and using ENCORE.
 * Test_Navigate_Module.py can be removed.
 
