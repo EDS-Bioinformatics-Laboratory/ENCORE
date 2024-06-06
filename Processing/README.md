@@ -26,7 +26,7 @@
 
   
 
-* *Change 'NameOfComputation_1' to a more descriptive name. Make, additional \NameOfComputation_1 sub-directories if required.*
+* *Change 'NameOfComputation_1' to a more descriptive name. Make additional \NameOfComputation_1 sub-directories if required.*
   
   * *Different parts of the computational work should be placed in different \NameOfComputation_1 directories to keep the \Processing modular.* 
   * *You may add any prefix (e.g., number, date) to order these directories.*
