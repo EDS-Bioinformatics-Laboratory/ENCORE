@@ -2,7 +2,7 @@
 
 <u>*Explanation*</u>:
 
-**BackgroundDocumentation**. Documents relevant as project background documentation. For example:*
+**BackgroundDocumentation**. Documents relevant as project background documentation. For example:
 
 * *Project proposal*
 * *Presentations from collaborators or peers*
