@@ -24,7 +24,7 @@ To organize a computational project into a project compendium, ENCORE has define
 
 
 
-**Project Team and Compendium Recipient.**
+**Project Team and Compendium Recipient**
 
 The (leader of the) **Project Team** is responsible for the organization and documentation of the project. The Step-by-Step User Guide and the explanation/instructions in the various README and other files are for the  Project Team.
 
