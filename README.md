@@ -92,11 +92,11 @@ The following files need to be updated by the project owner
 * **0_GETTINGSTARTED.txt**. Template document (plain text format). Copy this file to your favourite editor to add content.
 * Examples:
   
-  * **0_GETTINGSTARTED.docx**. Template document (Microsoft Word format to show how to include links). The docx file can be saved as html (make sure you use utf-8 encoding).
+  * **0_GETTINGSTARTED.docx**. Template document (Microsoft Word format to show how to include links). The DOCX file can be saved as HTML (make sure you use utf-8 encoding).
   
-  * **0_GETTINGSTARTED.tex**. Template document (LaTex format to show how to include links). The LaTex file can be converted with [Pandoc](https://pandoc.org/index.html) to html.
+  * **0_GETTINGSTARTED.tex**. Template document (LaTex format to show how to include links). The LaTex file can be converted to HTML with [Pandoc](https://pandoc.org/index.html).
   
-  * **0_GETTINGSTARTED.html**. Example of exported html file used by the FSS navigator.
+  * **0_GETTINGSTARTED.html**. Example of exported HTML file used by the FSS navigator.
 
 
 
