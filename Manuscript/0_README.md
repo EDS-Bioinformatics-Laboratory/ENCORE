@@ -37,12 +37,12 @@ This directory may be removed at your discretion.
 
   * *Supplementary data*
 
-  * *Reference library (e.g., EndNote, Mendeley, Bibtex, rtf)*
+  * *Reference library (e.g., EndNote, Mendeley, BibTeX, rtf)*
 
   * *Review reports + rebuttals*
 
 
-  * *All tables and figures that are required for the publication should be duplicated from the \Results directories to the Manuscript directory to ensure this directory is self-contained.* 
+  * *All tables and figures that are required for the publication should be duplicated from the \Results directories to the \Manuscript directory to ensure this directory is self-contained.* 
 
 
 
