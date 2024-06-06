@@ -20,7 +20,7 @@ The Markdown files (*.md) in the sFSS can be edited with any text editor but to 
 
 **The standardized File System Structure (sFSS)** / **Project Compendium**
 
-To organize a computational project into a project compendium, ENCORE has defined a sFSS which is a predefined but flexible directory structure to organize conceptual information, data, code, documentation, and (intermediate) results (e.g., tables, figures, text files). Each directory of the sFSS contains one or more predefined files to provide explanation and guidance for documentation. The sFSS is also referred to as a '**Project Compendium**'.
+To organize a computational project into a project compendium, ENCORE has defined a sFSS which is a predefined but flexible directory structure to organize conceptual information, data, code, documentation, and (intermediate) results (e.g., tables, figures, text files). Each directory of the sFSS contains one or more predefined files to provide explanation and guidance for documentation. The sFSS is also referred to as a **Project Compendium**.
 
 
 
@@ -28,7 +28,7 @@ To organize a computational project into a project compendium, ENCORE has define
 
 The (leader of the) **Project Team** is responsible for the organization and documentation of the project. The Step-by-Step User Guide and the explanation/instructions in the various README and other files are intended for the  Project Team.
 
-The '**Compendium Recipient**' is, for example, a direct colleague, a peer, or a reviewer who wants to inspect and/or reproduce the results of a project. Or it can be an archive such as Zenodo.
+The **Compendium Recipient** is, for example, a direct colleague, a peer, or a reviewer who wants to inspect and/or reproduce the results of a project. Or it can be an archive such as Zenodo.
 
 
 
