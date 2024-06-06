@@ -18,7 +18,7 @@
 
   
 
-* Store *(pdf) files with using the Author-Year-Journal (or similar) naming-scheme to allow easy retrieval during project discussions.*
+* Store *(PDF) files with using the Author-Year-Journal (or similar) naming-scheme to allow easy retrieval during project discussions.*
 
 * *In addition to the pdf files, use a reference manager such as Mendeley, BibTeX, or EndNote. At the end of the project:*
   
