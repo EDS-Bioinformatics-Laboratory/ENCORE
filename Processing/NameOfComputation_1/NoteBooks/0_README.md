@@ -25,7 +25,7 @@ A notebook is *a (web-based) interactive computing platform* that combines live 
 - *Be ruthless about eliminating duplication (use functions).*
 - *Always search for well-maintained software libraries that do what you need, and test these libraries     before relying on them.*
 - *Do not comment and  uncomment sections of code to control a program's behaviour. This is a recipe for making your software irreproducible.* 
-- *Choose a style guide—And stick with it (see for example, https://peps.python.org/pep-0008/ or https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)*
+- *Choose a style guide—And stick with it (see for example, https://peps.python.org/pep-0008/, https://style.tidyverse.org/, https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)*
 - *Give functions and variables meaningful names.*
 - *Make dependencies and requirements explicit*
 - *Refactor as needed (process of restructuring your code without changing its interface).*
