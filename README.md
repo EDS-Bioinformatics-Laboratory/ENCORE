@@ -65,7 +65,7 @@ Directories
 
 **ENCORE AUTOMATION**
 
-The GitHub repository [ENCORE AUTOMATION](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE_AUTOMATION) provides scripts to automate specific ENCORE tasks. Currently, the automatic creation of a local ENCORE project and and project repository on GitHub.com
+The GitHub repository [ENCORE_AUTOMATION](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE_AUTOMATION) provides scripts to automate specific ENCORE tasks. Currently, the automatic creation of a local ENCORE project and and project repository on GitHub.com
 
 
 
