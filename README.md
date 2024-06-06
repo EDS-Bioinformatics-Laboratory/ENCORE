@@ -14,7 +14,7 @@ Further information about ENCORE is also found in the [ENCORE wiki](https://gith
 
 **Markdown**
 
-The markdown files (*.md) in the sFSS can be edited with any text editor but to show the markup one should use a Markdown viewer such as Typora (www.typora.io; Windows, Mac) or [Notepad++](https://notepad-plus-plus.org/) (Windows; install the MarkdownViewer plugin).
+The Markdown files (*.md) in the sFSS can be edited with any text editor but to show the markup one should use a Markdown viewer such as Typora (www.typora.io; Windows, Mac) or [Notepad++](https://notepad-plus-plus.org/) (Windows; install the MarkdownViewer plugin).
 
 
 
