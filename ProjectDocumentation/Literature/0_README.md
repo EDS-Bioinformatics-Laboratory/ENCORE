@@ -4,7 +4,7 @@
 
 <u>*Explanation*</u>:
 
-* *This subdirectory should contain relevant scientific literature (**pdf files**) from PubMed, bioRxiv, theses, etc*
+* *This subdirectory should contain relevant scientific literature (**PDF format**) from PubMed, bioRxiv, theses, etc*
 
 * *This list of references will, in most cases, be longer than used in \Manuscript.*
 
