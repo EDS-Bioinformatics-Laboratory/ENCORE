@@ -14,7 +14,7 @@
 
   * *This includes unprocessed data obtained obtained from collaborators or public databases.* 
 
-  * For example, 'fastq' for NGS, 'raw' for metabolomics, 'cel' for Affymetrix*
+  * *For example, 'fastq' for NGS, 'raw' for metabolomics, 'cel' for Affymetrix*
 
     
 
