@@ -16,7 +16,7 @@
 
 
 
-*One approach is proposed by Gruning and co-workers (Gruning, 2018). The proposed a software stack of interconnected technologies to preserve the computing environment (**Figure 1**). This stack comprises*
+*One approach is proposed by Gruning and co-workers [(Gruning, 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11070151/). The proposed a software stack of interconnected technologies to preserve the computing environment (**Figure 1**). This stack comprises*
 
 1. ***Conda** to manage software packages and dependencies (https://docs.conda.io/en/latest/). Conda provides a virtual execution environment. With conda you can manage R packages but **renv** is good alternative (https://rstudio.github.io/renv/index.html).* 
 2. *Containers such as **Docker** (https://www.docker.com/) or **Singularity** (https://docs.sylabs.io/guides/3.5/user-guide/introduction.html) to provide an isolated environment for the software. That is, a container has no knowledge of the operating system and contains everything required to run the software.*
