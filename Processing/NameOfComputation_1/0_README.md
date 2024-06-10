@@ -58,7 +58,7 @@
 
 **Software environment** (alternatively can be specified in \Processing\0_SoftwareEnvironment)
 
-* **Operating System(s) / version(s) used during development (and testing): **
+* **Operating System(s) / version(s) used during development (and testing):**
 
 * **Specific hardware requirements:**
 
