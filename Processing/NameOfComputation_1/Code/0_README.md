@@ -89,7 +89,8 @@
 
 **Preserve your computing environment**
 
-*See [0_README.md](../../0_SoftwareEnvironment/0_README.md) in 0_SoftwareEnvironment*
+*See [0_README.md](../../0_SoftwareEnvironment/0_README.md) in [0_SoftwareEnvironment](../../0_SoftwareEnvironment): 
+*
 
 
 
@@ -120,7 +121,3 @@
 
 
 **Relation between the scripts, and user instructions for execution:**
-
-
-
-[\ENCORE\Processing\0_SoftwareEnvironment]: 
