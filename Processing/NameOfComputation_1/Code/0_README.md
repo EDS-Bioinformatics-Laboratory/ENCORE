@@ -89,7 +89,7 @@
 
 **Preserve your computing environment**
 
-*See [0_README.md](./../../0_SoftwareEnvironment\) in 0_SoftwareEnvironment*
+*See [0_README.md](../../0_SoftwareEnvironment\) in 0_SoftwareEnvironment*
 
 
 
