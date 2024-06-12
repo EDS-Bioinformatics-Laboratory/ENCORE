@@ -30,7 +30,7 @@
 
 
 
-![ReproducibilityStack](F:\Cloud\Dropbox\BioLab\FSS Projects\ENCORE\Processing\0_SoftwareEnvironment\ReproducibilityStack.png)
+![ReproducibilityStack](.\ReproducibilityStack.png)
 
 ***Figure 1**. Software stack of interconnected technologies that Enables Computational Reproducibility. For R projects, renv might be used as an alternative for conda. Docker or Singularity may be used for the containerization. Copied and modified from Gruning (2018).*
 
