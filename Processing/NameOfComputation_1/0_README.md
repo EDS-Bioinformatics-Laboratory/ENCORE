@@ -42,7 +42,7 @@
 
 ***Avoid** manual data manipulation steps. Instead of manually changing data (e.g., format conversion, filtering), aim to make use of small custom scripts. Manual steps are a main cause for irreproducible results.*  
 
-* *It is strongly recommended to implement an executable description of the sequence of steps taken helps to reproduce results (e.g., Snakemake, https://snakemake.github.io; pytask, https://github.com/pytask-dev/pytask; any other workflow system)*
+* *It is recommended to implement an executable description of the sequence of steps taken helps to reproduce results (e.g., Snakemake, https://snakemake.github.io; pytask, https://github.com/pytask-dev/pytask; any other workflow system)*
 
 
 
