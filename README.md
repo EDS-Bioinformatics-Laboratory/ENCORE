@@ -12,15 +12,15 @@ Further information about ENCORE is also found in the [ENCORE wiki](https://gith
 
 
 
-**Markdown**
-
-The Markdown files (*.md) in the sFSS can be edited with any text editor but to show the markup one should use a Markdown viewer such as Typora (www.typora.io; Windows, Mac) or [Notepad++](https://notepad-plus-plus.org/) (Windows; install the MarkdownViewer plugin).
-
-
-
 **The standardized File System Structure (sFSS)** / **Project Compendium**
 
 To organize a computational project into a project compendium, ENCORE has defined a sFSS which is a predefined but flexible directory structure to organize conceptual information, data, code, documentation, and (intermediate) results (e.g., tables, figures, text files). Each directory of the sFSS contains one or more predefined files to provide explanation and guidance for documentation. The sFSS is also referred to as a **Project Compendium**.
+
+
+
+**Markdown**
+
+The Markdown files (*.md) in the sFSS can be edited with any text editor but to show the markup one should use a Markdown viewer such as Typora (www.typora.io; Windows, Mac) or [Notepad++](https://notepad-plus-plus.org/) (Windows; install the MarkdownViewer plugin).
 
 
 
