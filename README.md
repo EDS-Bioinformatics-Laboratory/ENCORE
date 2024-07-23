@@ -4,7 +4,7 @@
 
 [TOC]
 
-**Version: V.4.1-Development**
+**Version: V.4.x** (Use this development template for new projects)
 
 
 

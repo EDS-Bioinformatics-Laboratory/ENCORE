@@ -6,20 +6,6 @@
 
 
 
-***Note:** this directory contains the ENCORE manuscript that were submitted to MetaArXiv pre-print server to provide further information about ENCORE.*  
-
-* *ENCORE_v22_MetaArXiv*
-
-​	*preprint DOI: https://doi.org/10.31222/osf.io/m9yqz*
-
-​	*Supplementary materials: https://osf.io/j9hmw/*
-
-​	*License: CC-BY Attribution-NonCommercial 4.0 International* 
-
-*A revised version of this manuscript is currently under review. This directory may be removed at your discretion.*
-
-
-
 *<u>Instructions</u>:* 
 
 * *Remove all Instructions and the Explanation once you have completed the template.*
