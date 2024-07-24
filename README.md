@@ -4,7 +4,11 @@
 
 [TOC]
 
-**Version: V.4.x** (Use this development template for new projects)
+> [!NOTE]
+>
+> **Version: V.4.x** (main branch). Use this development template for new projects)
+>
+> Previous ENCORE versions are found as separate branches starting from V4.1.1
 
 
 
