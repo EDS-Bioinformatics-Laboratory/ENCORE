@@ -73,6 +73,12 @@ The GitHub repository [ENCORE_AUTOMATION](https://github.com/EDS-Bioinformatics-
 
 
 
+**ENCORE SUPPLEMENT**
+
+The GitHub repository [ENCORE_SUPPLEMENT](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE-SUPPLEMENT) provides supplementary information to ENCORE such as documentation, manuscripts, and figures. 
+
+
+
 **Sharing with a Compendium Recipient**
 
 * Several files in the sFSS are provided in different formats (e.g., text, Markdown, LaTex, Microsoft Word, HTML). The Project Team has to remove the formats that will not be used. This prevents that these redundant files cause confusion when the project compendium is archived or shared with a Compendium Recipient. 
@@ -107,7 +113,7 @@ The following files need to be updated by the project owner
 
 User documentation
 
-* **1_Step-by-Step-ENCORE-Guide.{pdf, docx}**. User guide to use ENCORE (the File System Structure (FSS) and setting up a corresponding GitHub repository).
+* **1_Step-by-Step-ENCORE-Guide.{pdf, docx}**. User guide to use ENCORE (the File System Structure (FSS) and setting up a corresponding GitHub repository). Additional documentation is provided by the GitHub repository [ENCORE_SUPPLEMENT](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE-SUPPLEMENT) 
 
 
 
