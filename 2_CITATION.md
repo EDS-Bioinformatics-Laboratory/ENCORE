@@ -25,6 +25,9 @@ The **FSS Navigator** is part of ENCORE and can be referred to as:
 GitHub repository containing the ENCORE sFSS template:
 
 * https://github.com/EDS-Bioinformatics-Laboratory/ENCORE
+* The ENCORE template can be cited as:
+  * van Kampen, A. H. C., Mahamune, U., Jongejan, A., van Schaik, B. D. C., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E. J. M., Dane, A. D., Garcia-Valiente, R., & Moerland, P. D. (2024). ENCORE: A practical implementation to improve reproducibility and transparency of computational research. ENCORE. https://zenodo.org/records/12938252. 
+
 
 
 
