@@ -6,9 +6,11 @@
 
 > [!NOTE]
 >
-> **Version: V.4.x** (main branch). Use this development template for new projects)
+> * This is the README.md file of the [ENCORE template](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE) and is provided to give some background information about the project organization and to provide pointers to further information.
 >
-> Previous ENCORE versions are found as separate branches starting from V4.1.1
+>   * **Version: V.4.x** (main branch). Use this development template for new projects)
+>
+>   * Previous ENCORE versions are found as separate branches starting from V4.1.1
 
 
 
@@ -56,7 +58,7 @@ Start to explore the project by opening **Navigate.html** in your browser.
 
 Directories
 
-* **\.navigate**. System directory used by Navigate. Do not remove.
+* **\.navigate**. System directory used by the Compendium Navigator. Do not remove.
 * **Data**. Data used in the project. Note that data can also be located in the Processing (sub)directories depending on your needs.
 * **Manuscript**. (Final) manuscript of project
 * **Processing**. Software, documentation, and results. Also contains some general information about software environments.
@@ -131,24 +133,25 @@ General
 
 
 
-**sFSS Navigator**
+**Compendium (sFSS) Navigator**
 
-The sFSS Navigator is a Python program that generates Navigate.html when executed. This html file can be opened in a web-browser and guides the user to the most important parts of a projects.  
+The Compendium Navigator is a Python program that generates Navigate.html when executed. This html file can be opened in a web-browser and guides the user to the most important parts of a projects.  
 
 * The standalone program and source code are available. The Python code is part of this template. Compiled binaries are found on the [ENCORE GitHub repository](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/releases) 
 * Updates (e.g., bug fixes) of the Python code and executables are available from the [Navigator repository Releases](https://github.com/EDS-Bioinformatics-Laboratory/FSS-Navigator/releases) . Compatibility, with specific ENCORE templates is documented with each Release.
 * Navigator versions and Compatibility with ENCORE template versions is also available from the [ENCORE wiki](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki/sFSS-Navigator) 
 * If the sFSS is changed then Navigate.html can be updated by executing the Navigate.py script (if Python is installed on your computer), or by downloading and executing one of the executables. Open Navigate.html after running the program. The Navigator can be configured from the Navigation.conf  text file. Execution takes a couple of seconds.
 * In principle, the Python script should run on any hardware (Windows, Mac, Unix). The compiled programs were compiled for specific operating systems (see below). The Navigator has been tested with Windows 10 and Windows 11 and with macOS 13.3.1 (Ventura), Apple M1 and macOS 10.13.6 (High Sierra), Intel Core i5.
+* For instructions to install Python and an environment to run Navigate.py see [Compendium-Navigator](https://github.com/EDS-Bioinformatics-Laboratory/FSS-Navigator) repository.
 * There are no software dependencies. The Python code only uses standard Python libraries (see content of Navigate.py).
 * No specific installation is required.
 
-sFSS Navigator files:
+Compendium Navigator files:
 
 * **Navigate.html**. Open in your browser to navigate the standardized file system.
-* **Navigate.py**. Standalone Python 3 script to generate Navigate.html to navigate the FSS. Can be run from the command line (Navigate.py -h)
+* **Navigate.py**. Standalone Python 3 script to generate Navigate.html to navigate the sFSS. Can be run from the command line (Navigate.py -h). 
 * **Navigate_U.sh**. Shell script to run Navigate on Unix/Linux systems. Change the first line (#!/usr/bin/Python) if necessary. Make executable using chmod +x
-* There are also executables available for Windows and Mac OS. These are available from the GitHub *release* and also from Zenodo (DOI: https://doi.org/10.5281/zenodo.7985655; https://zenodo.org/record/7985655)):
+* There are also executables available for Windows and Mac OS. These are available from the GitHub *release* and also from Zenodo (DOI: https://doi.org/10.5281/zenodo.7985655):
   * **Navigate_W.exe**. Windows executable if you don't have Python installed (Navigate.exe -h).
   * **Navigate_M**. MacOS executable (macOS 13.3.1 (Ventura), Apple M1)
   * **Navigate_MacIntel**. MacOS executable (macOS 10.13.6 (High Sierra), Intel Core i5 )
