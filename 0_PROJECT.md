@@ -1,10 +1,10 @@
-### sFSS Root Directory
+### General Project Information
 
 
 
 <u>*Explanation*</u>:
 
-*This file contains basic project information and is shown by default in the FSS Navigator.*
+*This file contains basic project information and is shown by default in the Compendium Navigator.*
 
 
 
@@ -16,7 +16,7 @@
 
 * *Enter the project title*
 
-  * *Also add to the FSS Navigator configuration file Navigation.conf*
+  * *Also add to the Compendium Navigator configuration file Navigation.conf*
 
 * *Project description and goals*
 
