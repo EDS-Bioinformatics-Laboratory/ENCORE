@@ -10,7 +10,8 @@ ENCORE is an initiative of the Bioinformatics Laboratory ([www.bioinformaticslab
 
 * van Kampen, A., Mahamune, U., Jongejan, A., van Schaik, B., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E., Dane, A., Valiente, R.G., and Moerland, P (2024). ENCORE. A Practical Implementation to Improve Reproducibility and Transparency of Computational Research. [MetaArXiv](https://osf.io/preprints/metaarxiv/m9yqz/). February 19. [doi:10.31222/osf.io/m9yqz](). Supplementary materials: [osf.io/j9hmw/](https://osf.io/j9hmw/)
 
-* van Kampen, A., Mahamune, U., Jongejan, A., van Schaik, B., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E., Dane, A., Valiente, R.G., and Moerland, P (2024). ENCORE. A Practical Implementation to Improve Reproducibility and Transparency of Computational Research. *Manuscript In prep*.
+* van Kampen, A., Mahamune, U., Jongejan, A., van Schaik, B., Balashova, D., Lashgari, D., Pras-Raves, M., Wever, E., Dane, A., Valiente, R.G., and Moerland, P (2024). ENCORE. A Practical Implementation to Improve Reproducibility and Transparency of Computational Research. **Nature Communications**, 15, 8117. [https://doi.org/10.1038/s41467-024-52446-8)](https://doi.org/10.1038/s41467-024-52446-8) [[pdf+supplement](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE-SUPPLEMENT/tree/main/MANUSCRIPTS/ENCORE_NatureCommunications)]
+
 
  
 
