@@ -14,7 +14,7 @@
 
 * ***Data**. Raw, meta, and pre-processed data*
 
-* ***NameOfComputation_1**.  Contains all items (e.g., code, documentation, results) belonging to a specific computational analysis.*
+* ***NameOfComputation_1**.  Placeholder (change to appropriate name. E.g., Preprocessing, Simulation, etc). Contains all items (e.g., code, documentation, results) belonging to a specific computational analysis.*
 
   
 
