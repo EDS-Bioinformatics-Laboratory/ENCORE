@@ -1,6 +1,11 @@
-# **ENCORE. Enhancing Computational Reproducibility** 
+# **ENCORE: Enhancing Computational Reproducibility** 
 
 
+If you are inspired by **ENCORE** and adapt it in your research project please cite our paper:
+
+van Kampen, A.H.C., Mahamune, U., Jongejan, A. et al. ENCORE: a practical implementation to improve reproducibility and transparency of computational research. Nat Commun 15, 8117 (2024). https://doi.org/10.1038/s41467-024-52446-8
+
+<br>
 
 [TOC]
 
